@@ -1,0 +1,26 @@
+/*Font*/
+	body {
+	    font: 400 15px "Source Sans Pro", Lato;
+	    line-height: 1.8;
+	    color: #000000;
+	    background-color: #f6f6f6; 
+	}
+
+/*Navbar*/
+.navbar {
+		padding: 5px 5px;
+	    font-size: 18px;
+	    letter-spacing: 4px;
+	    background-color: #1da7c6;
+	}
+
+/*Sidebar*/
+	.sidebar {
+		background-color: #ffffff;
+		height: 600px;
+	}
+
+/*Row After Nav*/
+	.row-nav {
+		margin: 60px 0px 0px 0px;
+	}	
